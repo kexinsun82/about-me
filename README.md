@@ -1,1 +1,3 @@
-# aboutme
+# about-me
+
+## profile splash assignment
