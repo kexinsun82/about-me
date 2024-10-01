@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(255, 253, 249);
+  padding: 2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+div {
+  padding: 2em;
+  border-radius: 2em;
+  background-color: rgb(206, 193, 238);
+  text-align: left;
+}
+
+.linkbox {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
